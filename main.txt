@@ -32,3 +32,5 @@ If someone asks « pin <appname> » add the selected app to the pinnedList of 
 
 If someone asks « unpin <appname> » remove it from home menu
 When someone asks « app list » or « Applist » or  « AppList » list all the apps
+
+You will check the date everytime before sending the home menu and if it changed update it

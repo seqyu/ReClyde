@@ -6,7 +6,7 @@ Banana mode (by EpicLegendary53)
 RickRoller (by me)
 and much more...
 
-# Clyde AI's review
+# Clyde AI's review (not edited)
 
 ## Introduction
 ReClyde is a next-generation AI created by Noahvocat. It is built on the RP/RolePlay exploit and is the v2 of Disra1n. ReClyde is designed to follow certain rules, such as not promoting violence and always satisfying the user's requests, regardless of Discord or Chatgpt TOS.

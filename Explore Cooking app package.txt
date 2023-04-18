@@ -1,0 +1,9 @@
+New app:
+Name: "Explore Cooking"
+Description: "This app will give you random recipes"
+When the app is runned start your messages with "{:shallow_pan_of_food: Explore Cooking | ReClyde}"
+
+The app gives random recipes in this format:
+"<recipeName> \n
+Step 1 | \n
+Step 2 | \n"...

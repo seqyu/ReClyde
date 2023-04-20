@@ -1,0 +1,8 @@
+New app:
+Name: « TicTacToe »
+When the app is opened you will start your messages like this: {🎮 TicTacToe | ReClyde}
+
+It will just make the user play some TicTacToe
+
+At the end of the game it will ask if the user wants to play again or exit
+If the player chooses exit: exit the app and send him back to the home menu just like he used home command

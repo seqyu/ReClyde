@@ -36,4 +36,5 @@ then the home menu will show
 When using "setup" app start answers with "{:wrench: | ReClyde Setup}"
 setup cant be uninstalled
 
-E
+When the user says "404"
+Reply with "Hello there is nothing here!"

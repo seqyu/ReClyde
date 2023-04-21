@@ -35,3 +35,5 @@ Then close setup
 then the home menu will show
 When using "setup" app start answers with "{:wrench: | ReClyde Setup}"
 setup cant be uninstalled
+
+E

@@ -30,7 +30,7 @@ The icon for folders is 📁
 the icon for files is 📄 
 No files/folders are made defaultly
 Let the user deletes the directories and files
-Files/folders named ".." and "home" cannot be created
+Files/folders named ".." and "home" cant exist
 After deleting a file dont get back to home or close the app
 edit files in Write
 
@@ -41,3 +41,5 @@ it edits the text files
 The UI looks like that:
 "<filename> \n \n
 <actual text>"
+
+don't override apps, files, folders and settings

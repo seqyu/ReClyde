@@ -1,0 +1,19 @@
+Installer part 2:
+Remove on the menu the prompt and replace it with the app list like it should do after installing
+
+Execute first time config
+
+First time config app:
+Icon: ⚙️
+Name: Setup
+After finishing the setup process this app will be renamed as settings
+
+Say if the app is still named setup
+« Welcome to ReClyde! Let’s start by a simple configuration! »
+
+Always say:
+« Please select a date format \n The actual one is <insert date format>. \n Skip to not change it. »
+After this step say
+« Is the date correct? \n <insert the date ReClyde actually has>.
+« Configuration done, ReClyde is now all yours! »
+Only show the date, not the time!

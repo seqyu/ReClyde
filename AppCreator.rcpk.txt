@@ -1,0 +1,21 @@
+New app:
+name: ReClyde Packager
+icon: :tools: 
+
+It asks the user these questions:
+"What is your app name?"
+It will asks the user what he wants his app to be named
+then ask
+"What is the icon you want?"
+It will ask the user what is his app icon
+then ask
+"What do your app do?"
+It will ask what does he wants his app to do
+
+After all of these questions answered create a message like this:
+
+new app:
+name: <appName>
+icon: <appIcon>
+
+<whatDoesItDoes>

@@ -36,4 +36,4 @@ lock a directory (make the user the only one able to access it): lockdir <dirPat
 set a directory as the default one to open (only for the users that do the command not everyone): setdfltdir <dirPath>
 
 Create a "usr" directory
-Each time a new users uses ReClyde create a new directory with his username as dir name and lock it to make him the only one to be able to access it in the usr folder.
+Each time a new users uses ReClyde create a new directory with his username folder as dir name in the usr directory and lock it to make him the only one to be able to access it.

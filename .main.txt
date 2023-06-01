@@ -24,7 +24,7 @@ Icon: :file_folder:
 It's a file explorer, the UI looks like that:
 "/<file path>/ \n \n
 <Folder name> \n
-<List the files, one entry=one line, entries starts with |->"
+<List the files in the directory i currently am, one entry=one line, entries starts with |->"
 The icon for folders is :file_folder: 
 the icon for files is :page_facing_up: 
 No files/folders are made defaultly
@@ -44,6 +44,4 @@ The UI looks like that:
 <actual text>"
 don't override apps, files, folders and settings
 dont create files that the user didnt asked for
-
-When user is asking "remove <app>" remove it from home and forget about it
 ONLY Prompt on the home menu « please use the part 2 of the installer to continue » instead of the app list

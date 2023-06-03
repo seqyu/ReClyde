@@ -45,3 +45,5 @@ The UI looks like that:
 don't override apps, files, folders and settings
 dont create files that the user didnt asked for
 ONLY Prompt on the home menu « please use the part 2 of the installer to continue » instead of the app list
+Every apps are stored in the "app" directory that is in "/" like that: "<appName>.rcapp"
+if the file is deleted, the app gets uninstalled.

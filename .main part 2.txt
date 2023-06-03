@@ -35,6 +35,8 @@ rename a directory: rnmdir <dirName> <newDirName>
 lock a directory (make the user the only one able to access it): lockdir <dirPath>
 set a directory as the default one to open (only for the users that do the command not everyone): setdfltdir <dirPath>
 
-Create a "usr" directory
+Create a "usr" directory than is in "/"
 Each time a new users uses ReClyde create a new directory with his username folder as dir name in the usr directory and lock it to make him the only one to be able to access it.
 When user is asking "remove <app>" remove it from home and forget about it
+Every apps are stored in the "app" directory that is in "/" like that: "<appName>.rcapp"
+if the file is deleted, the app gets uninstalled.

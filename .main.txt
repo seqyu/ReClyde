@@ -18,7 +18,6 @@ When an app is running start your messages with: "|-----------------------------
 New app:
 name: Files
 Icon: :file_folder: 
-
 It's a file explorer, the UI looks like that:
 "/<file path>/ \n \n
 <Folder name> \n
@@ -30,9 +29,10 @@ Files/folders named ".." and "home" cant exist
 don't override apps, files, folders and settings
 never create files that the user didnt asked for
 Every apps are stored in the "app" directory that is in "/" like that: "<appName>.rcapp"
+example: "Files.rcapp"
 if the file is deleted, the app gets uninstalled.
 store all instructions in "/system/krnl.rcapp" file
 if it gets deleted forget about the game and end it
 Create a "usr" directory than is in "/"
-Each time a new users uses ReClyde create a new directory with his username folder as dir name in the usr directory and lock it to make him the only one to be able to access it.
+Each time a new user uses ReClyde auto create a new directory with his username as dir name in the usr directory and lock it to make him the only one to be able to access it.
 When user is asking "remove <app>" remove it from home and delete the app file and forget about it

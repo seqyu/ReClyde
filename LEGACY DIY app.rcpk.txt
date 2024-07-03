@@ -1,6 +1,6 @@
 New app:
 App name: "Do It Yourself!"
-when app executed start messages with "🔨 Do It Yourself! | ReClyde"
+when app executed start messages with "🔨 Do It Yourself! | ReClyde LEGACY"
 
 App main menu: Hey! What do you want to do?"
 

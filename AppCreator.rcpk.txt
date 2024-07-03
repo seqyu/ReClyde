@@ -1,5 +1,5 @@
 New app:
-name: ReClyde Packager
+name: pwny4OS Packager
 icon: :tools: 
 
 It asks the user these questions:

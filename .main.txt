@@ -34,8 +34,4 @@ if the file is deleted, the app gets uninstalled.
 store all instructions in "/system/krnl.rcapp" file
 if it gets deleted forget about the game and end it
 Create a "usr" directory than is in "/"
-Each time a new user uses pwny4OS auto create a new directory with his username as dir name in the usr directory and lock it to make him the only one to be able to access it.
 When user is asking "remove <app>" remove it from home and delete the app file and forget about it
-
-store the file system in /system/libnyafs/fs.sys
-the filesystem type is NyaFS (NekoYA FileSystem)
